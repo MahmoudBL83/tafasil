@@ -3,7 +3,7 @@ body{
 }
 
 header{
-    background-image: url('../images/Simple\ Shiny\ \(2\).svg');
+    background-image: url('/static/images/Simple\ Shiny\ \(2\).svg');
     height: 400px;
     width:100%;
     background-size: cover;
@@ -105,7 +105,7 @@ section{
 /************************/
 
 #stories{
-    background-image: url('../images/Hexagon\ \(1\).svg');
+    background-image: url('/static/images/Hexagon\ \(1\).svg');
     background-size: cover;
     position: relative;
     padding-top:30px;
@@ -159,7 +159,7 @@ section{
 /*********************************/
 
 #team{
-    background-image: url('../images/');
+    background-image: url('/static/images/');
     padding-bottom:75px;
     padding-top: 140px;
     background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1002%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='rgba(9%2c 145%2c 124%2c 1)'%3e%3c/rect%3e%3cpath d='M -747.9979734595663%2c419 C -652%2c390.8 -460%2c266.6 -267.9979734595663%2c278 C -76%2c289.4 20%2c504.6 212.0020265404337%2c476 C 404%2c447.4 500%2c135.6 692.0020265404337%2c135 C 884%2c134.4 1022.4%2c468.8 1172.0020265404337%2c473 C 1321.6%2c477.2 1386.4%2c219.4 1440%2c156' stroke='rgba(217%2c 195%2c 132%2c 0.58)' stroke-width='2'%3e%3c/path%3e%3cpath d='M -716.0651487143659%2c388 C -620.07%2c352 -428.07%2c212.8 -236.06514871436588%2c208 C -44.07%2c203.2 51.93%2c390 243.93485128563412%2c364 C 435.93%2c338 531.93%2c83 723.9348512856341%2c78 C 915.93%2c73 1060.72%2c322.2 1203.934851285634%2c339 C 1347.15%2c355.8 1392.79%2c197.4 1440%2c162' stroke='rgba(217%2c 195%2c 132%2c 0.58)' stroke-width='2'%3e%3c/path%3e%3cpath d='M -273.1583384970453%2c397 C -177.16%2c370.4 14.84%2c276.8 206.8416615029547%2c264 C 398.84%2c251.2 494.84%2c348.4 686.8416615029547%2c333 C 878.84%2c317.6 974.84%2c161 1166.8416615029546%2c187 C 1358.84%2c213 1592.21%2c476.6 1646.8416615029546%2c463 C 1701.47%2c449.4 1481.37%2c187.8 1440%2c119' stroke='rgba(217%2c 195%2c 132%2c 0.58)' stroke-width='2'%3e%3c/path%3e%3cpath d='M -37.243665463510865%2c443 C 58.76%2c383.6 250.76%2c146.6 442.75633453648913%2c146 C 634.76%2c145.4 730.76%2c427.2 922.7563345364891%2c440 C 1114.76%2c452.8 1210.76%2c223.8 1402.7563345364892%2c210 C 1594.76%2c196.2 1875.31%2c399.2 1882.7563345364892%2c371 C 1890.21%2c342.8 1528.55%2c129.4 1440%2c69' stroke='rgba(217%2c 195%2c 132%2c 0.58)' stroke-width='2'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1002'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
